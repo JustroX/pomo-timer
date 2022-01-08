@@ -1,4 +1,19 @@
 /* Sets all the text color to red! */
-body {
-    color: red;
+.pomodoro-timer {
+	margin-top: 3rem;
+	text-align: center;
+}
+
+.pomodoro-time {
+	font-size: 2rem;
+	margin-bottom: 1rem;
+}
+
+.pomodoro-buttons {
+	margin-top: 2rem;
+	text-align: center;
+}
+
+.pomodoro-buttons .hidden {
+	display: none;
 }
